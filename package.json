@@ -1,0 +1,10 @@
+{
+  "name": "hoshikuzu-danmaku",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "スマートフォン向け縦画面弾幕シューティング。ビルド不要・外部依存なし。",
+  "scripts": {
+    "test": "node --test"
+  }
+}
